@@ -1,5 +1,5 @@
 +++
 title = "Faculty"
-id = "work"
+id = "faculty"
 bgImage = "img/profs-crop.jpg"
 +++

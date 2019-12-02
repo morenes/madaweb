@@ -1,0 +1,35 @@
+enable: true
+title: UCSC HSC Faculty
+# subtitle: Don’t just take our word for it. Check out some of our latest work.
+
+portfolio:
+  - category: Faculty
+    name: Scott Beamer
+    home: https://scottbeamer.net
+    description: >
+      Computer architecture, memory interconnects, hardware specialization, open-source hardware design, graph algorithms
+  - category: Faculty
+    name: Matthew Guthaus
+    home: https://www.soe.ucsc.edu/people/mrg
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Faculty
+    name: Heiner Litz
+    home: https://people.ucsc.edu/~hlitz/
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Faculty
+    name: Jose Renau
+    home: https://users.soe.ucsc.edu/~renau/
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Faculty
+    name: Tyler Sorensen
+    home: https://www.cs.princeton.edu/~ts20/
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Faculty
+    name: Join Us!
+    home: https://recruit.ucsc.edu/JPF00776
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
