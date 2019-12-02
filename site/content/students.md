@@ -1,6 +1,6 @@
 +++
 title = "Students"
-id = "contact"
+id = "single"
 bgImage = "img/group-crop.jpg"
 +++
 

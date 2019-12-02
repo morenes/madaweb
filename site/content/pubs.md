@@ -1,6 +1,6 @@
 +++
 title = "Publications"
-id = "contact"
+id = "single"
 bgImage = "img/trees.jpg"
 +++
 ## 2019

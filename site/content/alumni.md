@@ -1,6 +1,6 @@
 +++
 title = "Alumni"
-id = "contact"
+id = "single"
 bgImage = "img/group-crop.jpg"
 +++
 
