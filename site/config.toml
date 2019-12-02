@@ -1,0 +1,55 @@
+title = "UCSC Hardware Systems Collective"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The site's parameters
+[params]
+  home = "Home"
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 1
+      name = "Faculty"
+      url = "faculty"
+    [[menu.header]]
+      weight = 2
+      name = "Students"
+      url = "students"
+    [[menu.header]]
+      weight = 3
+      name = "Alumni"
+      url = "alumni"
+    [[menu.header]]
+      weight = 4
+      name = "Publications"
+      url = "pubs"
+
+    [[menu.footer]]
+      weight = 1
+      name = "University of California, Santa Cruz"
+      url = "https://www.ucsc.edu"
+    [[menu.footer]]
+      weight = 2
+      name = "Baskin Engineering"
+      url = "https://www.soe.ucsc.edu"
+    [[menu.footer]]
+      weight = 3
+      name = "Computer Science & Engineering Department"
+      url = "https://www.soe.ucsc.edu/departments/computer-science-and-engineering"
+
+  [params.slider]
+    enable = true
+    title = "Hardware Systems Collective"
+    subtitle = "University of California, Santa Cruz"
+    bgImage = "img/group.jpg"
+    btnText = "Apply to Grad Program"
+    url = "https://grad.soe.ucsc.edu/admissions"
+
+  [params.wrapper]
+    enable = true
+    image = "https://www.soe.ucsc.edu/sites/all/themes/bsoev3/baskin-logo-normal.svg"
+    title = "About Us"
+    italic = "We are researchers at UC Santa Cruz in the Computer Science & Engineering Department investigating how to design/build/architect/secure/optimize/integrate/program the next generation of hardware."
+    paragraph = "Our approach brings together many perspectives: circuits & VLSI (physical design, design automation, clocking, memory, thermals), architecture (hardware specialization, simulation, advanced out-of-order processors, prefetchers), and systems (storage systems, operating systems, machine learning for design, concurrency, security, programming models)."
