@@ -8,7 +8,7 @@ from xml.dom import minidom
 from collections import defaultdict
 
 # Name of the authors
-professors = {'Jose Renau', 'Heiner Litz' ,'Matthew R.Guthaus', 'Scott Beamer'}
+professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer'}
 
 # Get DBLP's key
 def get_urlpt(name):
@@ -152,6 +152,26 @@ def print_html_paper(paper):
         print(paper['pages']+',',)
     print(paper['year']+'.<br><br>')
 
+
+def print_markdown_paper(paper):
+    names = ', '.join(paper['author'])
+    title_link = '[%s](%s)' % (paper['title'], paper['doi'])
+    if paper['booktitle']:
+        venue = '*%s*' % paper['booktitle']
+    else:
+        if paper['journal']:
+            venue = '*%s*' % paper['journal']
+            if paper['number']:
+                venue += ' %s(%s)' % (paper['volume'], paper['number'])
+            else:
+                venue += ' %s' % (paper['volume'])
+    if paper['pages']:
+        pages = '%s, ' % paper['pages']
+    else:
+        pages = ''
+    year = '%s.' % paper['year']
+    print('* %s, **%s** %s, %s%s' % (names, title_link, venue, pages, year))
+
 # # Collecting info
 
 # List all papers of all professores
@@ -173,11 +193,20 @@ for paper in papers:
         papers_info[int(aux['year'])].append(aux)
 
 # Print papers sorted by year (in decreasing order)
+# for year in sorted(papers_info.keys())[::-1]:
+#     papers = papers_info[year]
+#     print('<h3><strong>'+str(year)+'</strong></h3><hr />')
+#     for paper in papers:
+#         print('<p>')
+#         print_html_paper(paper)
+#         print('</p><br><br>')
+#     print()
+
+# Print papers sorted by year (in decreasing order) in Markdown
 for year in sorted(papers_info.keys())[::-1]:
     papers = papers_info[year]
-    print('<h3><strong>'+str(year)+'</strong></h3><hr />')
+    print('## %d' % year)
     for paper in papers:
-        print('<p>')
-        print_html_paper(paper)
-        print('</p><br><br>')
+        print_markdown_paper(paper)
+        print()
     print()
