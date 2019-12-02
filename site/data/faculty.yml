@@ -7,29 +7,30 @@ portfolio:
     name: Scott Beamer
     home: https://scottbeamer.net
     description: >
-      Computer architecture, memory interconnects, hardware specialization, open-source hardware design, graph algorithms
+      computer architecture, hardware specialization, memory interconnects, open-source hardware design, graph algorithms
   - category: Faculty
     name: Matthew Guthaus
     home: https://www.soe.ucsc.edu/people/mrg
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      design automation, chip design (VLSI), clocking circuits, memory circuits, circuit optimization, open-source software
   - category: Faculty
     name: Heiner Litz
     home: https://people.ucsc.edu/~hlitz/
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      computer architecture, operating systems, storage systems, machine learning, hardware design, bioinformatics accelerators
   - category: Faculty
     name: Jose Renau
     home: https://users.soe.ucsc.edu/~renau/
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Faculty
+      computer architecture, design effort metrics and models, thermal, simulation, FPGA/ASIC design, mobile computing
+  - category: Group
     name: Tyler Sorensen
     home: https://www.cs.princeton.edu/~ts20/
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Faculty
+      concurrency (semantics, testing, verification), heterogeneous systems (GPUs, accelerators), compilers (portability, optimizations)
+  - category: Group
     name: Join Us!
     home: https://recruit.ucsc.edu/JPF00776
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      We are hiring a *tenure-track* assistant teaching professor for Electronic Design Automation (EDA) and Hardware!
+
