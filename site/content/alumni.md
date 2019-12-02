@@ -4,81 +4,111 @@ id = "single"
 bgImage = "img/group-crop.jpg"
 +++
 
+
 Doctorate
 ---------
-* Cyrus Bazeghi (04-07) Startup/Xilinx
-* Javi Martinez (04-07) PostDoc/NVIDIA
-* Sangeetha Nair (05-11) Intel
-* Sean Halle (04-12) PostDoc/INRIA
-* David Munday (07-13) Altera
-* Ehsan Ardestani (09-13) Intel
-* Madan Das (08-15) Mentor
-* Alamelu Sankaranarayanan (06-16)
-* Gabriel Southern (08-16) Intel
-* Elnaz Ebrahimi (09-17) Huawei
-* Daphne Gorman (12-18) Apple
-* Haven Skinner (11-18) BigStream
-* Rafael Trapani Possignolo (12-18) Intel
+* Cyrus Bazeghi ('07) Startup/Xilinx
+* Javi Martinez ('07) PostDoc/NVIDIA
+* Sangeetha Nair ('11) Intel
+* Sean Halle ('12) PostDoc/INRIA
+* Seokjoong Kim ('12) Oracle
+* Xuchu Hu ('12) Cadence Design Systems
+* David Munday ('13) Altera
+* Ehsan Ardestani ('13) Intel
+* Sheldon Logan ('13) Google
+* Madan Das ('15) Mentor
+* Alamelu Sankaranarayanan ('16)
+* Gabriel Southern ('16) Intel
+* Elnaz Ebrahimi ('17) Huawei
+* Rajsaktish Sankaranarayanan ('17) Intel
+* Riadul Islam ('17) Assistant Professor, University of Michigan Dearborn
+* Daphne Gorman ('18) Apple
+* Haven Skinner ('18) BigStream
+* Rafael Trapani Possignolo ('18) Intel
 
 
 Masters
 -------
-* Shantanu Kale. (05-06) Harmonic Inc
-* Liying Su. (05-06) Intel
-* David Van Der Bokke. (05-06) Tellme Networks
-* Suraj N. Kurapati (05-07) NVIDIA
-* Angela Schmid (06-07) Intel
-* Matt Fischler (06-07) Qualcomm
-* Melisa Nuñez (05-08) Oracle
-* Joseph Nayfach (05-08) Qteris
-* Keertika Singh (05-09) AMD
-* Michael Brown (06-11) Intel
-* Raj Maitra (12-12) Cisco
-* Pranav Natesh (10-12) LSI
-* Ian Lee (09-12) National Labs
-* Himabindu Thota (12-13) Stealth startup
-* Vidyuth Srivatsaa (10-13) Sandforce
-* Christopher Hoseit (12-13) Tata
-* Jason Duong (09-13) LSI
-* Meeta Sinha-Verma (12-13) PhD
-* Carlos Andres Cabrera (05-14) Samsung
-* Gregory Jackson (10-15)
-* Ethan Papp (14-15) Mercedes
-* Sina Hassani (13-15) Nutanix
-* Azzam Ahamd Qureshi* (15-16)
-* Xue Jingwen* (16-16)
-* Xuan Gu* (16-16)
-* Zhiguang Cheng* (16-16)
-* Junheng Chen* (16-16)
-* Rigo Dicochea (07-16) GlobalFoundries
-* Arun Suresh* (15-16) Ford
-* Vishnu Surya Reddy Nandi (17-17)
-* Yuxiong Zhu (17-17) Xilinx
-* Garvit Rajendra Mantri (16-18) AMD
-* Yuxun Qiu (17-18) Synopsys
-* Rohan Ganpati (17-19) Cadence
-* Qian Chen (19-19) Facebook
+* Shantanu Kale. ('06) Harmonic Inc
+* Liying Su. ('06) Intel
+* David Van Der Bokke. ('06) Tellme Networks
+* Suraj N. Kurapati ('07) NVIDIA
+* Angela Schmid ('07) Intel
+* Matt Fischler ('07) Qualcomm
+* Melisa Nuñez ('08) Oracle
+* Joseph Nayfach ('08) Qteris
+* Suparna Das ('08)
+* Keertika Singh ('09) AMD
+* Curtis Andrus ('10) Gauda Inc. -> ListenLogic
+* Derek Chan ('10) Space Systems Loral
+* Keven Woo ('10) Intel
+* Michael Brown ('11) Intel
+* Walter "Jas" Condley ('11) Space Systems Loral
+* Raj Maitra ('12) Cisco
+* Pranav Natesh ('12) LSI
+* Ian Lee ('12) National Labs
+* Himabindu Thota ('13) Stealth startup
+* Vidyuth Srivatsaa ('13) Sandforce
+* Christopher Hoseit ('13) Tata
+* Jason Duong ('13) LSI
+* Meeta Sinha-Verma ('13)
+* Jeff Butera ('13) Mentor Graphics
+* Carlos Andres Cabrera ('14) Samsung
+* Benjamin Lacara ('14) EMC Corporation
+* Gregory Jackson ('15)
+* Ethan Papp ('15) Mercedes
+* Sina Hassani ('15) Nutanix
+* Jie Zhang ('15) Yodlee, Inc.
+* Azzam Ahamd Qureshi* ('16)
+* Xue Jingwen* ('16)
+* Xuan Gu* ('16)
+* Zhiguang Cheng* ('16)
+* Junheng Chen* ('16)
+* Rigo Dicochea ('16) GlobalFoundries
+* Arun Suresh* ('16) Ford
+* Brian Chen ('16) Altera/Intel
+* Vishnu Surya Reddy Nandi ('17)
+* Yuxiong Zhu ('17) Xilinx
+* Garvit Rajendra Mantri ('18) AMD
+* Michael Grimes ('18) Achronix Semiconductor
+* Kyle Cordes ('18) Joby Aviation
+* Rebecca Rashkin ('18) UCSC Lecturer
+* Yuxun Qiu ('18) Synopsys
+* Rohan Ganpati ('19) Cadence
+* Qian Chen ('19) Facebook
+* Hany Fahmy ('19)
+
 
 
 Undergraduate Researchers
 -------------------------
-* Krity Vu (Summer 05)
-* Abhishek Sharma (05-06)
-* Rachel Pasetes (06-07)
-* John Burr (06-07)
-* John Holsworth (07)
-* Tom Golubev (08-09)
-* Eddie Izumoto (09)
-* Jas Condley (09)
-* Matt Thrailkill (09)
-* Kevin Nelson (09)
-* Zach Walker (09)
-* Matthew Reister (09)
-* Gregory Jackson (08-10)
-* Peter Schultz (10)
-* Haven Skinner (10-11)
-* Edward Kuang (13-14)
-* Alejandro Aguilar (14-15)
-* Hesham Assabahi (17)
-* Muhammad Zian Llahee (17-18)
-* Zachary Potter (17-18)
+* Krity Vu
+* Abhishek Sharma
+* Rachel Pasetes
+* John Burr
+* John Holsworth
+* Tom Golubev
+* Eddie Izumoto
+* Jas Condley
+* Matt Thrailkill
+* Kevin Nelson
+* Zach Walker
+* Matthew Reister
+* Gregory Jackson
+* Peter Schultz
+* Haven Skinner
+* Edward Kuang
+* Alejandro Aguilar
+* Hesham Assabahi
+* Muhammad Zian Llahee
+* Zachary Potte
+* Brian Chen
+* Xavier Dunkley
+* Ben Lacara
+* Kathryn Dobbins
+* Ryan Conway
+* Edward Sullivan
+* Jason Mak
+* Chase Peters
+* David Lewis
+* David Chalco
