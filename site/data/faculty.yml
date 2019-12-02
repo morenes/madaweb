@@ -24,7 +24,7 @@ portfolio:
     description: >
       computer architecture, design effort metrics and models, thermal, simulation, FPGA/ASIC design, mobile computing
   - category: Group
-    name: Tyler Sorensen
+    name: Tyler Sorensen (2020)
     home: https://www.cs.princeton.edu/~ts20/
     description: >
       concurrency (semantics, testing, verification), heterogeneous systems (GPUs, accelerators), compilers (portability, optimizations)
