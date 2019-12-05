@@ -7,21 +7,21 @@ bgImage = "img/group-crop.jpg"
 
 Doctorate
 ---------
-* Cyrus Bazeghi ('07) Startup/Xilinx
-* Javi Martinez ('07) PostDoc/NVIDIA
+* Cyrus Bazeghi ('07) Microsoft
+* Javi Martinez ('07) Qualcomm
 * Sangeetha Nair ('11) Intel
 * Sean Halle ('12) PostDoc/INRIA
-* Seokjoong Kim ('12) Oracle
+* Seokjoong Kim ('12) Xilinx
 * Xuchu Hu ('12) Cadence Design Systems
-* David Munday ('13) Altera
-* Ehsan Ardestani ('13) Intel
+* David Munday ('13) Google
+* Ehsan Ardestani ('13) Facebook
 * Sheldon Logan ('13) Google
-* Madan Das ('15) Mentor
-* Alamelu Sankaranarayanan ('16)
+* Madan Das ('15) Mentor Graphics
+* Alamelu Sankaranarayanan ('16) 
 * Gabriel Southern ('16) Intel
 * Elnaz Ebrahimi ('17) Huawei
 * Rajsaktish Sankaranarayanan ('17) Intel
-* Riadul Islam ('17) Assistant Professor, University of Michigan Dearborn
+* [Riadul Islam ('17) Assistant Professor, UMBC](https://www.csee.umbc.edu/people/faculty/riadul-islam/)
 * Daphne Gorman ('18) Apple
 * Haven Skinner ('18) BigStream
 * Rafael Trapani Possignolo ('18) Intel
@@ -101,7 +101,7 @@ Undergraduate Researchers
 * Alejandro Aguilar
 * Hesham Assabahi
 * Muhammad Zian Llahee
-* Zachary Potte
+* Zachary Potter
 * Brian Chen
 * Xavier Dunkley
 * Ben Lacara
@@ -112,3 +112,5 @@ Undergraduate Researchers
 * Chase Peters
 * David Lewis
 * David Chalco
+* Joseph Kunzler
+* Jesse Cirimelli-Low
