@@ -1,7 +1,11 @@
 title = "UCSC Hardware Systems Collective"
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 theme = "airspace-hugo"
+
+# https://github.com/matcornic/hugo-theme-learn/issues/125
+relativeURLs = true
+uglyURLs = true
 
 # The site's parameters
 [params]
