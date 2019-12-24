@@ -32,7 +32,6 @@ Masters
 * Sachet Mittal
 * Huijie Pan
 * Joshua Pena
-* Jennifer Sowash
 * Jason Vranek
 * Haoyuan Wang
 * Yusu Wang

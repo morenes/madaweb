@@ -67,6 +67,7 @@ Masters
 * Rigo Dicochea ('16) GlobalFoundries
 * Arun Suresh* ('16) Ford
 * Brian Chen ('16) Altera/Intel
+* Han Chen ('16) Intel
 * Vishnu Surya Reddy Nandi ('17)
 * Yuxiong Zhu ('17) Xilinx
 * Garvit Rajendra Mantri ('18) AMD
@@ -77,7 +78,7 @@ Masters
 * Rohan Ganpati ('19) Cadence
 * Qian Chen ('19) Facebook
 * Hany Fahmy ('19)
-
+* Jennifer Sowash ('19)
 
 
 Undergraduate Researchers
