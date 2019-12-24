@@ -112,5 +112,3 @@ Undergraduate Researchers
 * Chase Peters
 * David Lewis
 * David Chalco
-* Joseph Kunzler
-* Jesse Cirimelli-Low

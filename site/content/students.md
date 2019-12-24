@@ -41,4 +41,5 @@ Masters
 Undergraduate Researchers
 -------------------------
 * Jesse Cirimelli-Low
+* Joseph Kunzler
 * Clark Hilbert
