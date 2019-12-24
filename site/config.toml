@@ -5,7 +5,7 @@ theme = "airspace-hugo"
 
 # https://github.com/matcornic/hugo-theme-learn/issues/125
 relativeURLs = true
-uglyURLs = true
+# uglyURLs = true
 
 # The site's parameters
 [params]
@@ -29,6 +29,10 @@ uglyURLs = true
       weight = 4
       name = "Publications"
       url = "pubs"
+    [[menu.header]]
+      weight = 4
+      name = "Sponsors"
+      url = "sponsors"
 
     [[menu.footer]]
       weight = 1
