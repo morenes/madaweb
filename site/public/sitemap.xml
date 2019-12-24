@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/alumni.html</loc>
+    <loc>//hsc.ucsc.edu/alumni/</loc>
   </url>
   
   <url>
-    <loc>/categories.html</loc>
+    <loc>//hsc.ucsc.edu/categories/</loc>
   </url>
   
   <url>
-    <loc>/faculty.html</loc>
+    <loc>//hsc.ucsc.edu/faculty/</loc>
   </url>
   
   <url>
-    <loc>/pubs.html</loc>
+    <loc>//hsc.ucsc.edu/pubs/</loc>
   </url>
   
   <url>
-    <loc>/sponsors.html</loc>
+    <loc>//hsc.ucsc.edu/sponsors/</loc>
   </url>
   
   <url>
-    <loc>/students.html</loc>
+    <loc>//hsc.ucsc.edu/students/</loc>
   </url>
   
   <url>
-    <loc>/tags.html</loc>
+    <loc>//hsc.ucsc.edu/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>//hsc.ucsc.edu/</loc>
   </url>
   
 </urlset>

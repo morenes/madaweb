@@ -1,10 +1,10 @@
 title = "UCSC Hardware Systems Collective"
-baseURL = ""
+baseURL = "//hsc.ucsc.edu/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
 # https://github.com/matcornic/hugo-theme-learn/issues/125
-relativeURLs = true
+# relativeURLs = true
 # uglyURLs = true
 
 # The site's parameters

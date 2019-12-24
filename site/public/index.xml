@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UCSC Hardware Systems Collective</title>
-    <link>/</link>
+    <link>//hsc.ucsc.edu/</link>
     <description>Recent content on UCSC Hardware Systems Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//hsc.ucsc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alumni</title>
-      <link>/alumni.html</link>
+      <link>//hsc.ucsc.edu/alumni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/alumni.html</guid>
+      <guid>//hsc.ucsc.edu/alumni/</guid>
       <description>Doctorate  Cyrus Bazeghi (&amp;lsquo;07) Microsoft Javi Martinez (&amp;lsquo;07) Qualcomm Sangeetha Nair (&amp;lsquo;11) Intel Sean Halle (&amp;lsquo;12) PostDoc/INRIA Seokjoong Kim (&amp;lsquo;12) Xilinx Xuchu Hu (&amp;lsquo;12) Cadence Design Systems David Munday (&amp;lsquo;13) Google Ehsan Ardestani (&amp;lsquo;13) Facebook Sheldon Logan (&amp;lsquo;13) Google Madan Das (&amp;lsquo;15) Mentor Graphics Alamelu Sankaranarayanan (&amp;lsquo;16) Gabriel Southern (&amp;lsquo;16) Intel Elnaz Ebrahimi (&amp;lsquo;17) Huawei Rajsaktish Sankaranarayanan (&amp;lsquo;17) Intel Riadul Islam (&amp;lsquo;17) Assistant Professor, UMBC Daphne Gorman (&amp;lsquo;18) Apple Haven Skinner (&amp;lsquo;18) BigStream Rafael Trapani Possignolo (&amp;lsquo;18) Intel  Masters  Shantanu Kale.</description>
     </item>
     
     <item>
       <title>Faculty</title>
-      <link>/faculty.html</link>
+      <link>//hsc.ucsc.edu/faculty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faculty.html</guid>
+      <guid>//hsc.ucsc.edu/faculty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/pubs.html</link>
+      <link>//hsc.ucsc.edu/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pubs.html</guid>
+      <guid>//hsc.ucsc.edu/pubs/</guid>
       <description>2019   Yuanjiang Ni, Jishen Zhao, Heiner Litz, Daniel Bittman, Ethan L. Miller, SSP: Eliminating Redundant Writes in Failure-Atomic NVRAMs via Shadow Sub-Paging. MICRO, 836-848, 2019.
   Rafael Trapani Possignolo, Jose Renau, SMatch: Structural Matching for Fast Resynthesis in FPGAs. DAC, 75, 2019.
   Bin Wu, James E. Stine, Matthew R. Guthaus, Fast and Area-Efficient SRAM Word-Line Optimization. ISCAS, 1-5, 2019.
@@ -42,19 +42,19 @@
     
     <item>
       <title>Sponsors</title>
-      <link>/sponsors.html</link>
+      <link>//hsc.ucsc.edu/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sponsors.html</guid>
+      <guid>//hsc.ucsc.edu/sponsors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Students</title>
-      <link>/students.html</link>
+      <link>//hsc.ucsc.edu/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/students.html</guid>
+      <guid>//hsc.ucsc.edu/students/</guid>
       <description>Doctorate  Peter Braun Chandranil Chakraborttii Hany Fahmy Nilufar Ferdous Saba Jamilan Ramesh Jayaraman Nursultan Kabylkas Amogh Lonkar Hunter Nichols Akash Sridhar Sheng Hong Wang Pete Wilcox Bin Wu Minghao Xie  Masters  Hunter Coffman Micaela Kapp Kenneth Mayer Brian Metz Sachet Mittal Huijie Pan Joshua Pena Jennifer Sowash Jason Vranek Haoyuan Wang Yusu Wang  Undergraduate Researchers  Jesse Cirimelli-Low Clark Hilbert  </description>
     </item>
     
