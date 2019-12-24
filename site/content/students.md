@@ -38,7 +38,7 @@ Masters
 * Yusu Wang
 
 
-Undergraduate Researchers
+Undergraduate
 -------------------------
 * Jesse Cirimelli-Low
 * Joseph Kunzler
