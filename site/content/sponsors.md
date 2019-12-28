@@ -1,7 +1,7 @@
 +++
 title = "Sponsors"
 id = "single"
-bgImage = "img/trees-crop.jpg"
+bgImage = "img/trees.jpg"
 +++
 
 ![](img/ucseal.png)
