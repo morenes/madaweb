@@ -3,6 +3,7 @@ baseURL = "//hsc.ucsc.edu/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
+
 # https://github.com/matcornic/hugo-theme-learn/issues/125
 # relativeURLs = true
 # uglyURLs = true
@@ -10,7 +11,8 @@ theme = "airspace-hugo"
 # The site's parameters
 [params]
   home = "Home"
-  
+  googleAnalytics = "UA-155100278-1"
+
   [menu]
 
     [[menu.header]]
