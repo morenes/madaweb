@@ -11,7 +11,9 @@ bgImage = "img/trees.jpg"
 ![](img/nasa-logo.png)
 ![](img/amd-logo.png)
 ![](img/eve-logo.png)
+
 ![](img/intel-logo.png)
 ![](img/nvidia-logo.png)
 ![](img/sun-logo.png)
 ![](img/xilinx-logo.png)
+![](img/symbiotic-logo.png)
