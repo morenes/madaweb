@@ -33,6 +33,10 @@ theme = "airspace-hugo"
       url = "pubs"
     [[menu.header]]
       weight = 4
+      name = "Seminar"
+      url = "seminar"
+    [[menu.header]]
+      weight = 5
       name = "Sponsors"
       url = "sponsors"
 
