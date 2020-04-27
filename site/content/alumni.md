@@ -79,6 +79,7 @@ Masters
 * Qian Chen ('19) Facebook
 * Hany Fahmy ('19)
 * Jennifer Sowash ('19)
+* Haoyuan Wang ('20) KIOXIA
 
 
 Undergraduate Researchers

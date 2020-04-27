@@ -30,10 +30,10 @@ Masters
 * Kenneth Mayer
 * Brian Metz
 * Sachet Mittal
+* Thomas Nijssen
 * Huijie Pan
 * Joshua Pena
 * Jason Vranek
-* Haoyuan Wang
 * Yusu Wang
 
 
