@@ -35,9 +35,9 @@
       
       <guid>//hsc.ucsc.edu/seminar/</guid>
       <description>Spring 2020   4/20/20 - nextpnr: Open Multi-Architecture FPGA Place and Route, David Shah (Griffith Research Ltd), @fpga_dave, recording
-  4/27/20 - FireSim and FirePerf: Simulating, Debugging, and Profiling RTL Designs with Cloud FPGAs, Sagar Karandikar (UC Berkeley), @firesimproject, details
-  5/4/20 - New Intermediate Representation Designs for Live Hardware Development and Hardware Description Language Integration, Sheng-Hong Wang (UC Santa Cruz)
-  5/11/20 - Andrew &amp;ldquo;Bunnie&amp;rdquo; Huang, @bunniestudios</description>
+  4/27/20 - FireSim and FirePerf: Simulating, Debugging, and Profiling RTL Designs with Cloud FPGAs, Sagar Karandikar (UC Berkeley), @firesimproject, talk info, recording
+  5/4/20 - New Intermediate Representation Designs for Live Hardware Development and Hardware Description Language Integration, Sheng-Hong Wang (UC Santa Cruz), talk details
+  5/11/20 - Down the Rabbit Hole: Adventures in Open Source FPGA EDA Tools, Andrew &amp;ldquo;Bunnie&amp;rdquo; Huang, @bunniestudios, talk details</description>
     </item>
     
     <item>
