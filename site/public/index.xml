@@ -46,10 +46,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/pubs/</guid>
-      <description>2019   Yuanjiang Ni, Jishen Zhao, Heiner Litz, Daniel Bittman, Ethan L. Miller, SSP: Eliminating Redundant Writes in Failure-Atomic NVRAMs via Shadow Sub-Paging. MICRO, 836-848, 2019.
+      <description>2020  Grant Ayers, Heiner Litz, Christos Kozyrakis, Parthasarathy Ranganathan, Classifying Memory Access Patterns for Prefetching. ASPLOS, 513-526, 2020.  2019   Riadul Islam, Matthew R. Guthaus, HCDN: Hybrid-Mode Clock Distribution Networks. IEEE Trans. on Circuits and Systems 66-I(1), 251-262, 2019.
   Rafael Trapani Possignolo, Jose Renau, SMatch: Structural Matching for Fast Resynthesis in FPGAs. DAC, 75, 2019.
-  Bin Wu, James E. Stine, Matthew R. Guthaus, Fast and Area-Efficient SRAM Word-Line Optimization. ISCAS, 1-5, 2019.
-  Grant Ayers, Nayana Prasad Nagendra, David I.</description>
+  Bin Wu, James E. Stine, Matthew R. Guthaus, Fast and Area-Efficient SRAM Word-Line Optimization.</description>
     </item>
     
     <item>

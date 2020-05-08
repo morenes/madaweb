@@ -8,7 +8,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _4/27/20_ - **FireSim and FirePerf: Simulating, Debugging, and Profiling RTL Designs with Cloud FPGAs**, [Sagar Karandikar](https://sagark.org) (UC Berkeley), [@firesimproject](https://twitter.com/firesimproject), [talk info](https://www.soe.ucsc.edu/events/cse-seminar-firesim-and-fireperf-simulating-debugging-and-profiling-rtl-designs-cloud-fpgas), [recording](https://youtu.be/UlYOsRBhtY8)
 
-* _5/4/20_ - **New Intermediate Representation Designs for Live Hardware Development and Hardware Description Language Integration**, [Sheng-Hong Wang](https://sites.google.com/site/shwangswebsite) (UC Santa Cruz), [talk details](https://www.soe.ucsc.edu/events/cse-seminar-new-intermediate-representation-designs-live-hardware-development-and-hardware), [recording](https://youtu.be/o8qf9XIs4cc)
+* _5/4/20_ - **New Intermediate Representation Designs for Live Hardware Development and Hardware Description Language Integration**, [Sheng-Hong Wang](https://sites.google.com/site/shwangswebsite) (UC Santa Cruz), [talk details](https://www.soe.ucsc.edu/events/cse-seminar-new-intermediate-representation-designs-live-hardware-development-and-hardware), [recording](https://diode.zone/videos/watch/2803b1bb-6371-45dc-aec4-9477397b2535)
 
 * _5/11/20_ - **Down the Rabbit Hole: Adventures in Open Source FPGA EDA Tools**, [Andrew "Bunnie" Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker)), [@bunniestudios](https://twitter.com/bunniestudios), [talk details](https://www.soe.ucsc.edu/events/cse-seminar-down-rabbit-hole-adventures-open-source-fpga-eda-tools)
 
