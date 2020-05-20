@@ -12,5 +12,5 @@ bgImage = "img/e2-crop.jpg"
 
 * _5/11/20_ - **Down the Rabbit Hole: Adventures in Open Source FPGA EDA Tools**, [Andrew "Bunnie" Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker)), [@bunniestudios](https://twitter.com/bunniestudios), [talk details](https://www.soe.ucsc.edu/events/cse-seminar-down-rabbit-hole-adventures-open-source-fpga-eda-tools), [recording](https://youtu.be/nu6YxS2mJYw)
 
-* _5/18/20_ - **WaveDROM: Status & Plan**, [Aliaksei Chapyzhenka](https://github.com/drom), [@wavedrom](https://twitter.com/wavedrom) (SiFive), [talk info](https://www.soe.ucsc.edu/events/cse-seminar-wavedrom-status-plan)
+* _5/18/20_ - **WaveDROM: Status & Plan**, [Aliaksei Chapyzhenka](https://github.com/drom), [@wavedrom](https://twitter.com/wavedrom) (SiFive), [talk info](https://www.soe.ucsc.edu/events/cse-seminar-wavedrom-status-plan), [recording](https://youtu.be/Z2_ehdMWc6U)
 
