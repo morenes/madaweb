@@ -24,13 +24,12 @@ portfolio:
     description: >
       computer architecture, design effort metrics and models, thermal, simulation, FPGA/ASIC design, mobile computing
   - category: Group
-    name: Tyler Sorensen (2020)
-    home: https://www.cs.princeton.edu/~ts20/
+    name: Tyler Sorensen
+    home: https://users.soe.ucsc.edu/~tsorensen/
     description: >
       concurrency (semantics, testing, verification), heterogeneous systems (GPUs, accelerators), compilers (portability, optimizations)
   - category: Group
-    name: Join Us!
-    home: https://recruit.ucsc.edu/JPF00776
+    name: Sagnik Nath
+    home: https://www.soe.ucsc.edu/people/sanath
     description: >
-      We are hiring a *tenure-track* assistant teaching professor for Electronic Design Automation (EDA) and Hardware!
-
+     VLSI design, EDA tool development, single flux quantum logic

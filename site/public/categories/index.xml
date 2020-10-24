@@ -5,10 +5,6 @@
     <link>//hsc.ucsc.edu/categories/</link>
     <description>Recent content in Categories on UCSC Hardware Systems Collective</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="//hsc.ucsc.edu/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="//hsc.ucsc.edu/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
