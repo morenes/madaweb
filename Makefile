@@ -7,7 +7,7 @@ biblio/biblio.md:
 	python3 ./scripts/dblp_crawler.py >biblio/biblio.md
 
 site/content/pubs.md: biblio/biblio.md
-	cat site/archtetypes/pubs.md biblio/biblio.md > site/content/pubs.md
+	cat site/archetypes/pubs.md biblio/biblio.md > site/content/pubs.md
 
 .PHONY: deploy
 deploy:

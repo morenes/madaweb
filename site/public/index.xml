@@ -42,9 +42,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/pubs/</guid>
-      <description>2020  Grant Ayers, Heiner Litz, Christos Kozyrakis, Parthasarathy Ranganathan, Classifying Memory Access Patterns for Prefetching. ASPLOS, 513-526, 2020.  2019   Riadul Islam, Matthew R. Guthaus, HCDN: Hybrid-Mode Clock Distribution Networks. IEEE Trans. on Circuits and Systems 66-I(1), 251-262, 2019.
-  Rafael Trapani Possignolo, Jose Renau, SMatch: Structural Matching for Fast Resynthesis in FPGAs. DAC, 75, 2019.
-  Bin Wu, James E. Stine, Matthew R. Guthaus, Fast and Area-Efficient SRAM Word-Line Optimization.</description>
+      <description>2020   Scott Beamer, A Case for Accelerating Software RTL Simulation. IEEE Micro 40(4), 112-119, 2020.
+  Akash Sridhar, Nursultan Kabylkas, Jose Renau, Load Driven Branch Predictor (LDBP). CoRR abs/2009.09064, 2020.
+  Sheng-Hong Wang, Rafael Trapani Possignolo, Haven Blake Skinner, Jose Renau, LiveHD: A Productive Live Hardware Development Flow. IEEE Micro 40(4), 67-75, 2020.
+  Grant Ayers, Heiner Litz, Christos Kozyrakis, Parthasarathy Ranganathan, Classifying Memory Access Patterns for Prefetching.</description>
     </item>
     
     <item>
