@@ -9,6 +9,7 @@ Doctorate
 ---------
 * Peter Braun
 * Chandranil Chakraborttii
+* Jesse Cirimelli-Low
 * Hany Fahmy
 * Nilufar Ferdous
 * Saba Jamilan
@@ -39,6 +40,10 @@ Masters
 
 Undergraduate
 -------------------------
-* Jesse Cirimelli-Low
-* Joseph Kunzler
-* Clark Hilbert
+
+
+Alumni
+------
+* Clark Hilbert (Achronyx)
+* Jennifer Sowash (Achronyx)
+* Joseph Kunzler (AMD)
