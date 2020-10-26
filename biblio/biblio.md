@@ -1,4 +1,6 @@
 ## 2020
+* Matthew Guthaus, Hunter Nichols, Jesse Cirimelli-Low, Joseph Kunzler, Bin Wu, **Enabling Design Technology Co-Optimization of SRAMs through Open-Source Software**, *IEEE International Electron Devices Meeting*, 2020.
+
 * Scott Beamer, **[A Case for Accelerating Software RTL Simulation.](https://doi.org/10.1109/MM.2020.2997639)** *IEEE Micro* 40(4), 112-119, 2020.
 
 * Akash Sridhar, Nursultan Kabylkas, Jose Renau, **[Load Driven Branch Predictor (LDBP).](https://arxiv.org/abs/2009.09064)** *CoRR* abs/2009.09064, 2020.
