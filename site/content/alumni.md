@@ -78,8 +78,9 @@ Masters
 * Rohan Ganpati ('19) Cadence
 * Qian Chen ('19) Facebook
 * Hany Fahmy ('19)
-* Jennifer Sowash ('19)
+* Jennifer Sowash ('19) Achronix
 * Haoyuan Wang ('20) KIOXIA
+* Clark Hilbert ('20) Achronix
 
 
 Undergraduate Researchers
@@ -114,3 +115,4 @@ Undergraduate Researchers
 * Chase Peters
 * David Lewis
 * David Chalco
+* Joseph Kunzler (AMD)

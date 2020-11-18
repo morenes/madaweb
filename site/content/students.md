@@ -40,10 +40,3 @@ Masters
 
 Undergraduate
 -------------------------
-
-
-Alumni
-------
-* Clark Hilbert (Achronyx)
-* Jennifer Sowash (Achronyx)
-* Joseph Kunzler (AMD)
