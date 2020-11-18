@@ -28,14 +28,10 @@ Doctorate
 
 Masters
 -------
-* Hunter Coffman
 * Micaela Kapp
 * Kenneth Mayer
 * Brian Metz
-* Sachet Mittal
 * Thomas Nijssen
-* Huijie Pan
-* Joshua Pena
 * Yusu Wang
 
 

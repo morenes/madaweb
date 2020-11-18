@@ -82,6 +82,10 @@ Masters
 * Haoyuan Wang ('20) KIOXIA
 * Clark Hilbert ('20) Achronix
 * Jason Vranek ('20) UCSC PhD program
+* Joshua Pena ('20)
+* Huijie Pan ('20)
+* Hunter Coffman ('20)
+* Sachet Mittal ('20)
 
 
 Undergraduate Researchers
