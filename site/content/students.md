@@ -15,9 +15,11 @@ Doctorate
 * Saba Jamilan
 * Ramesh Jayaraman
 * Nursultan Kabylkas
+* Yuanpeng Liao
 * Amogh Lonkar
 * Hunter Nichols
 * Akash Sridhar
+* Jason Vranek
 * Sheng Hong Wang
 * Pete Wilcox
 * Bin Wu
@@ -34,9 +36,11 @@ Masters
 * Thomas Nijssen
 * Huijie Pan
 * Joshua Pena
-* Jason Vranek
 * Yusu Wang
 
 
 Undergraduate
 -------------------------
+* Connor Masterson
+* Krishna Pandian
+* Kyle Zhang

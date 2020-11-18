@@ -81,6 +81,7 @@ Masters
 * Jennifer Sowash ('19) Achronix
 * Haoyuan Wang ('20) KIOXIA
 * Clark Hilbert ('20) Achronix
+* Jason Vranek ('20) UCSC PhD program
 
 
 Undergraduate Researchers
