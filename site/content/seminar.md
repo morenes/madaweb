@@ -3,6 +3,9 @@ title = "HSC Seminar"
 id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
+## Fall 2020
+* _11/10/20_ - **Towards Pythonic Digital Design with PyRTL**, [Tim Sherwood](https://www.arch.cs.ucsb.edu/prof-sherwood) (UCSB), [talk details](https://www.soe.ucsc.edu/events/towards-pythonic-digital-design-pyrtl), [recording](https://www.youtube.com/watch?v=8JJXgpZmbao)
+
 ## Spring 2020
 * _4/20/20_ - **nextpnr: Open Multi-Architecture FPGA Place and Route**, [David Shah](https://ds0.me) (Griffith Research Ltd), [@fpga_dave](https://twitter.com/fpga_dave), [recording](https://www.youtube.com/playlist?list=PLItVYhgea-kGpDRcSg5WPTJEZdBQ2cWAi)
 
@@ -12,5 +15,5 @@ bgImage = "img/e2-crop.jpg"
 
 * _5/11/20_ - **Down the Rabbit Hole: Adventures in Open Source FPGA EDA Tools**, [Andrew "Bunnie" Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker)), [@bunniestudios](https://twitter.com/bunniestudios), [talk details](https://www.soe.ucsc.edu/events/cse-seminar-down-rabbit-hole-adventures-open-source-fpga-eda-tools), [recording](https://youtu.be/nu6YxS2mJYw)
 
-* _5/18/20_ - **WaveDROM: Status & Plan**, [Aliaksei Chapyzhenka](https://github.com/drom), [@wavedrom](https://twitter.com/wavedrom) (SiFive), [talk info](https://www.soe.ucsc.edu/events/cse-seminar-wavedrom-status-plan), [recording](https://youtu.be/Z2_ehdMWc6U)
+* _5/18/20_ - **WaveDROM: Status & Plan**, [Aliaksei Chapyzhenka](https://github.com/drom), [@wavedrom](https://twitter.com/wavedrom) (SiFive), [talk details](https://www.soe.ucsc.edu/events/cse-seminar-wavedrom-status-plan), [recording](https://youtu.be/Z2_ehdMWc6U)
 
