@@ -4,6 +4,8 @@ id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
 ## Fall 2020
+* _12/8/20_ - **Asynchronous Architectures (temp title)**, [Rajit Manohar](https://csl.yale.edu/~rajit/) (Yale University), [webinar link](https://ucsc.zoom.us/j/91615338363)
+
 * _12/1/20_ - **Toward a Predictable System Stack for Reconfigurable Computing**, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) (Cornell University), [@samps](https://twitter.com/samps), [webinar link](https://ucsc.zoom.us/j/91615338363)
 
 * _11/10/20_ - **Towards Pythonic Digital Design with PyRTL**, [Tim Sherwood](https://www.arch.cs.ucsb.edu/prof-sherwood) (UCSB), [talk details](https://www.soe.ucsc.edu/events/towards-pythonic-digital-design-pyrtl), [recording](https://www.youtube.com/watch?v=8JJXgpZmbao)

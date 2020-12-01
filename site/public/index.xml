@@ -30,10 +30,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/seminar/</guid>
-      <description>Fall 2020   12/1/20 - Toward a Predictable System Stack for Reconfigurable Computing, Adrian Sampson (Cornell University), @samps, webinar link
+      <description>Fall 2020   12/8/20 - Asynchronous Architectures (temp title), Rajit Manohar (Yale University), webinar link
+  12/1/20 - Toward a Predictable System Stack for Reconfigurable Computing, Adrian Sampson (Cornell University), @samps, webinar link
   11/10/20 - Towards Pythonic Digital Design with PyRTL, Tim Sherwood (UCSB), talk details, recording
-  Spring 2020   4/20/20 - nextpnr: Open Multi-Architecture FPGA Place and Route, David Shah (Griffith Research Ltd), @fpga_dave, recording
-  4/27/20 - FireSim and FirePerf: Simulating, Debugging, and Profiling RTL Designs with Cloud FPGAs, Sagar Karandikar (UC Berkeley), @firesimproject, talk info, recording</description>
+  Spring 2020   4/20/20 - nextpnr: Open Multi-Architecture FPGA Place and Route, David Shah (Griffith Research Ltd), @fpga_dave, recording</description>
     </item>
     
     <item>
