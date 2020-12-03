@@ -4,7 +4,7 @@ id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
 ## Fall 2020
-* _12/8/20_ - **Asynchronous Architectures (temp title)**, [Rajit Manohar](https://csl.yale.edu/~rajit/) (Yale University), [webinar link](https://ucsc.zoom.us/j/91615338363)
+* _12/8/20_ - **Asynchronous Logic: Design and EDA**, [Rajit Manohar](https://csl.yale.edu/~rajit/) (Yale University), [talk details](https://www.soe.ucsc.edu/events/asynchronous-logic-design-and-eda), [webinar link](https://ucsc.zoom.us/j/91615338363)
 
 * _12/1/20_ - **Toward a Predictable System Stack for Reconfigurable Computing**, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) (Cornell University), [@samps](https://twitter.com/samps), [recording](https://www.youtube.com/watch?v=YueY0UP1aWI)
 
