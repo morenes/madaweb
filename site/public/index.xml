@@ -30,11 +30,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/seminar/</guid>
-      <description>Winter 2021   2/2/21 - Constructing and Using Families of Hardware Accelerators, Ross G. Daly (Stanford University), webinar
+      <description>Winter 2021   2/2/21 - Constructing and Using Families of Hardware Accelerators, Ross G. Daly (Stanford), webinar
   2/9/21 - PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow, Sitao Hang (UIUC), webinar
   2/16/21 - An Open-Source Platform for Heterogeneous Computing, Luca Carloni (Columbia), webinar
-  2/23/21 - GPU-accelerated Static Timing Analysis, Tsung-Wei Huang (U. of Utah), webinar
-  3/2/21 - Sherief Reda (Brown), webinar</description>
+  2/23/21 - GPU-accelerated Static Timing Analysis, Tsung-Wei Huang (Utah), webinar
+  3/2/21 - Sherief Reda (Brown), webinar
+  3/9/21 - Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh, Jonathan Balkind (UCSB), webinar</description>
     </item>
     
     <item>
