@@ -15,7 +15,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _3/2/21_ - [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
 
-* _3/9/21_ - [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [webinar](https://ucsc.zoom.us/j/93142781945)
 
 
 ## Fall 2020
