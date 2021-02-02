@@ -30,10 +30,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/seminar/</guid>
-      <description>Fall 2020   12/8/20 - Asynchronous Logic: Design and EDA, Rajit Manohar (Yale University), talk details, recording
-  12/1/20 - Toward a Predictable System Stack for Reconfigurable Computing, Adrian Sampson (Cornell University), @samps, recording
-  11/10/20 - Towards Pythonic Digital Design with PyRTL, Tim Sherwood (UCSB), talk details, recording
-  Spring 2020   4/20/20 - nextpnr: Open Multi-Architecture FPGA Place and Route, David Shah (Griffith Research Ltd), @fpga_dave, recording</description>
+      <description>Winter 2021   2/2/21 - Constructing and Using Families of Hardware Accelerators, Ross G. Daly (Stanford University), webinar
+  2/9/21 - PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow, Sitao Hang (UIUC), webinar
+  2/16/21 - An Open-Source Platform for Heterogeneous Computing, Luca Carloni (Columbia), webinar
+  2/23/21 - GPU-accelerated Static Timing Analysis, Tsung-Wei Huang (U. of Utah), webinar
+  3/2/21 - Sherief Reda (Brown), webinar</description>
     </item>
     
     <item>

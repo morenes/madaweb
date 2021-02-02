@@ -3,12 +3,29 @@ title = "HSC Seminar"
 id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
+
+## Winter 2021
+* _2/2/21_ - **Constructing and Using Families of Hardware Accelerators**, [Ross G. Daly](https://github.com/rdaly525) (Stanford University), [webinar](https://ucsc.zoom.us/j/93142781945)
+
+* _2/9/21_ - **PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow**, Sitao Hang (UIUC), [webinar](https://ucsc.zoom.us/j/93142781945)
+
+* _2/16/21_ - **An Open-Source Platform for Heterogeneous Computing**, [Luca Carloni](http://www.cs.columbia.edu/~luca/) (Columbia), [webinar](https://ucsc.zoom.us/j/93142781945)
+
+* _2/23/21_ - **GPU-accelerated Static Timing Analysis**, [Tsung-Wei Huang](https://tsung-wei-huang.github.io) (U. of Utah), [webinar](https://ucsc.zoom.us/j/93142781945)
+
+* _3/2/21_ - [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
+
+* _3/9/21_ - [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [webinar](https://ucsc.zoom.us/j/93142781945)
+
+
 ## Fall 2020
-* _12/8/20_ - **Asynchronous Logic: Design and EDA**, [Rajit Manohar](https://csl.yale.edu/~rajit/) (Yale University), [talk details](https://www.soe.ucsc.edu/events/asynchronous-logic-design-and-eda), [recording](https://www.youtube.com/watch?v=856CC5FI7DA)
+
+* _11/10/20_ - **Towards Pythonic Digital Design with PyRTL**, [Tim Sherwood](https://www.arch.cs.ucsb.edu/prof-sherwood) (UCSB), [talk details](https://www.soe.ucsc.edu/events/towards-pythonic-digital-design-pyrtl), [recording](https://www.youtube.com/watch?v=8JJXgpZmbao)
 
 * _12/1/20_ - **Toward a Predictable System Stack for Reconfigurable Computing**, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) (Cornell University), [@samps](https://twitter.com/samps), [recording](https://www.youtube.com/watch?v=YueY0UP1aWI)
 
-* _11/10/20_ - **Towards Pythonic Digital Design with PyRTL**, [Tim Sherwood](https://www.arch.cs.ucsb.edu/prof-sherwood) (UCSB), [talk details](https://www.soe.ucsc.edu/events/towards-pythonic-digital-design-pyrtl), [recording](https://www.youtube.com/watch?v=8JJXgpZmbao)
+* _12/8/20_ - **Asynchronous Logic: Design and EDA**, [Rajit Manohar](https://csl.yale.edu/~rajit/) (Yale University), [talk details](https://www.soe.ucsc.edu/events/asynchronous-logic-design-and-eda), [recording](https://www.youtube.com/watch?v=856CC5FI7DA)
+
 
 ## Spring 2020
 * _4/20/20_ - **nextpnr: Open Multi-Architecture FPGA Place and Route**, [David Shah](https://ds0.me) (Griffith Research Ltd), [@fpga_dave](https://twitter.com/fpga_dave), [recording](https://www.youtube.com/playlist?list=PLItVYhgea-kGpDRcSg5WPTJEZdBQ2cWAi)
