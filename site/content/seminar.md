@@ -5,7 +5,7 @@ bgImage = "img/e2-crop.jpg"
 +++
 
 ## Winter 2021
-* _2/2/21_ - **Constructing and Using Families of Hardware Accelerators**, [Ross G. Daly](https://github.com/rdaly525) (Stanford), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _2/2/21_ - **Constructing and Using Families of Hardware Accelerators**, [Ross Daly](https://web.stanford.edu/~rdaly525/) (Stanford), [webinar](https://ucsc.zoom.us/j/93142781945)
 
 * _2/9/21_ - **PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow**, Sitao Hang (UIUC), [webinar](https://ucsc.zoom.us/j/93142781945)
 
@@ -15,7 +15,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _3/2/21_ - [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
 
-* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [talk details](https://www.soe.ucsc.edu/events/building-cache-coherent-heterogeneous-isa-processors-using-p-mesh), [webinar](https://ucsc.zoom.us/j/93142781945)
 
 
 ## Fall 2020
