@@ -7,7 +7,7 @@ bgImage = "img/e2-crop.jpg"
 ## Winter 2021
 * _2/2/21_ - **Constructing and Using Families of Hardware Accelerators**, [Ross Daly](https://web.stanford.edu/~rdaly525/) (Stanford), [recording](https://youtu.be/vFLYCw1aQQQ)
 
-* _2/9/21_ - **PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow**, Sitao Hang (UIUC), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _2/9/21_ - **PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow**, Sitao Huang (UIUC), [recording](https://youtu.be/4jGqb6XQk-w)
 
 * _2/16/21_ - **An Open-Source Platform for Heterogeneous Computing**, [Luca Carloni](http://www.cs.columbia.edu/~luca/) (Columbia), [webinar](https://ucsc.zoom.us/j/93142781945)
 
