@@ -9,6 +9,7 @@ Doctorate
 ---------
 * Peter Braun
 * Chandranil Chakraborttii
+* Priyanka Dutta
 * Jesse Cirimelli-Low
 * Hany Fahmy
 * Nilufar Ferdous
