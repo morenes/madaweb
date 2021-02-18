@@ -7,15 +7,15 @@ bgImage = "img/e2-crop.jpg"
 ## Winter 2021
 * _2/2/21_ - **Constructing and Using Families of Hardware Accelerators**, [Ross Daly](https://web.stanford.edu/~rdaly525/) (Stanford), [recording](https://youtu.be/vFLYCw1aQQQ)
 
-* _2/9/21_ - **PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow**, Sitao Huang (UIUC), [recording](https://youtu.be/4jGqb6XQk-w)
+* _2/9/21_ - **PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow**, [Sitao Huang](http://sitaohuang.com) (UIUC), [@huang_sitao](https://twitter.com/huang_sitao), [recording](https://youtu.be/4jGqb6XQk-w)
 
-* _2/16/21_ - **An Open-Source Platform for Heterogeneous Computing**, [Luca Carloni](http://www.cs.columbia.edu/~luca/) (Columbia), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _2/16/21_ - **An Open-Source Platform for Heterogeneous Computing**, [Luca Carloni](http://www.cs.columbia.edu/~luca/) (Columbia), [@ColumbiaSld](https://twitter.com/columbiasld)
 
-* _2/23/21_ - **GPU-accelerated Static Timing Analysis**, [Tsung-Wei Huang](https://tsung-wei-huang.github.io) (Utah), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _2/23/21_ - **GPU-accelerated Static Timing Analysis**, [Tsung-Wei Huang](https://tsung-wei-huang.github.io) (Utah), [@twh760812](https://twitter.com/twh760812), [talk details](https://www.soe.ucsc.edu/events/gpu-accelerated-static-timing-analysis), [webinar](https://ucsc.zoom.us/j/93142781945)
 
 * _3/2/21_ - [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
 
-* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [talk details](https://www.soe.ucsc.edu/events/building-cache-coherent-heterogeneous-isa-processors-using-p-mesh), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [@JBalkind](https://twitter.com/jbalkind), [talk details](https://www.soe.ucsc.edu/events/building-cache-coherent-heterogeneous-isa-processors-using-p-mesh), [webinar](https://ucsc.zoom.us/j/93142781945)
 
 
 ## Fall 2020
