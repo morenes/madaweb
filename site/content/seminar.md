@@ -11,7 +11,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _2/16/21_ - **An Open-Source Platform for Heterogeneous Computing**, [Luca Carloni](http://www.cs.columbia.edu/~luca/) (Columbia), [@ColumbiaSld](https://twitter.com/columbiasld)
 
-* _2/23/21_ - **GPU-accelerated Static Timing Analysis**, [Tsung-Wei Huang](https://tsung-wei-huang.github.io) (Utah), [@twh760812](https://twitter.com/twh760812), [talk details](https://www.soe.ucsc.edu/events/gpu-accelerated-static-timing-analysis), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _2/23/21_ - **GPU-accelerated Static Timing Analysis**, [Tsung-Wei Huang](https://tsung-wei-huang.github.io) (Utah), [@twh760812](https://twitter.com/twh760812), [talk details](https://www.soe.ucsc.edu/events/gpu-accelerated-static-timing-analysis), [recording](https://www.youtube.com/watch?v=1nJNSC-d3T8)
 
 * _3/2/21_ - [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
 
