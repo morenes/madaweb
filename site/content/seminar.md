@@ -13,7 +13,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _2/23/21_ - **GPU-accelerated Static Timing Analysis**, [Tsung-Wei Huang](https://tsung-wei-huang.github.io) (Utah), [@twh760812](https://twitter.com/twh760812), [talk details](https://www.soe.ucsc.edu/events/gpu-accelerated-static-timing-analysis), [recording](https://www.youtube.com/watch?v=1nJNSC-d3T8)
 
-* _3/2/21_ - [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _3/2/21_ - **Energy-Efficient Circuit Design for Approximate Computing**, [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [webinar](https://ucsc.zoom.us/j/93142781945)
 
 * _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [@JBalkind](https://twitter.com/jbalkind), [talk details](https://www.soe.ucsc.edu/events/building-cache-coherent-heterogeneous-isa-processors-using-p-mesh), [webinar](https://ucsc.zoom.us/j/93142781945)
 
