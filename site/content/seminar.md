@@ -15,7 +15,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _3/2/21_ - **Energy-Efficient Circuit Design for Approximate Computing**, [Sherief Reda](https://vivo.brown.edu/display/sreda) (Brown), [talk details](https://www.soe.ucsc.edu/events/energy-efficient-circuit-design-approximate-computing), [recording](https://www.youtube.com/watch?v=5kiqZdLq0gA)
 
-* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [@JBalkind](https://twitter.com/jbalkind), [talk details](https://www.soe.ucsc.edu/events/building-cache-coherent-heterogeneous-isa-processors-using-p-mesh), [webinar](https://ucsc.zoom.us/j/93142781945)
+* _3/9/21_ - **Building Cache-Coherent, Heterogeneous-ISA Processors Using P-Mesh**, [Jonathan Balkind](https://jbalkind.github.io) (UCSB), [@JBalkind](https://twitter.com/jbalkind), [talk details](https://www.soe.ucsc.edu/events/building-cache-coherent-heterogeneous-isa-processors-using-p-mesh), [recording](https://youtu.be/cvyenqh7ilo)
 
 
 ## Fall 2020
