@@ -43,10 +43,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/pubs/</guid>
-      <description>2020   Scott Beamer, A Case for Accelerating Software RTL Simulation. IEEE Micro 40(4), 112-119, 2020.
+      <description>2020   Heiner Litz, Milad Hashemi, Machine Learning for Systems. IEEE Micro 40(5), 6-7, 2020.
   Akash Sridhar, Nursultan Kabylkas, Jose Renau, Load Driven Branch Predictor (LDBP). CoRR abs/2009.09064, 2020.
-  Sheng-Hong Wang, Rafael Trapani Possignolo, Haven Blake Skinner, Jose Renau, LiveHD: A Productive Live Hardware Development Flow. IEEE Micro 40(4), 67-75, 2020.
-  Grant Ayers, Heiner Litz, Christos Kozyrakis, Parthasarathy Ranganathan, Classifying Memory Access Patterns for Prefetching.</description>
+  Nayana Prasad Nagendra, Grant Ayers, David I. August, Hyoun Kyu Cho, Svilen Kanev, Christos Kozyrakis, Trivikram Krishnamurthy, Heiner Litz, Tipp Moseley, Parthasarathy Ranganathan, AsmDB: Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers. IEEE Micro 40(3), 56-63, 2020.</description>
     </item>
     
     <item>
