@@ -4,6 +4,10 @@ id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
 
+## Spring 2021
+* _4/20/21_ - **Streamblocks : A Heterogeneous Dataflow Compiler**, [Bezati Endri](https://people.epfl.ch/endri.bezati?lang=en) (EPFL), [recording](https://youtu.be/ozZXMMc9vsc)
+
+
 ## Winter 2021
 * _2/2/21_ - **Constructing and Using Families of Hardware Accelerators**, [Ross Daly](https://web.stanford.edu/~rdaly525/) (Stanford), [recording](https://youtu.be/vFLYCw1aQQQ)
 
