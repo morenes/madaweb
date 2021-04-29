@@ -5,7 +5,7 @@ bgImage = "img/e2-crop.jpg"
 +++
 
 ## Spring 2021
-* _4/27/21_ - **Under the Hood of OpenFPGA**, [Pierre-Emanual Gaillardon](https://faculty.utah.edu/u6001662-PIERRE-EMMANUEL_GAILLARDON/research/index.hml) (Utah), [details](https://www.soe.ucsc.edu/events/under-hood-openfpga)
+* _4/27/21_ - **Under the Hood of OpenFPGA**, [Pierre-Emanual Gaillardon](https://faculty.utah.edu/u6001662-PIERRE-EMMANUEL_GAILLARDON/research/index.hml) (Utah), [talk details](https://www.soe.ucsc.edu/events/under-hood-openfpga) [recording](https://www.youtube.com/watch?v=JS2WtVQnZYA)
 
 * _4/20/21_ - **Streamblocks : A Heterogeneous Dataflow Compiler**, [Bezati Endri](https://people.epfl.ch/endri.bezati?lang=en) (EPFL), [recording](https://youtu.be/ozZXMMc9vsc)
 
