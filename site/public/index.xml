@@ -30,10 +30,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/seminar/</guid>
-      <description>Spring 2021   6/1/21 - Reticle: A Virtual Machinefor Programming Modern FPGAs, Luis Vega (Washington), zoom webinar
-  5/25/21 - A New Era of Open-Source System-on-Chip Design, Christopher Batten (Cornell), talk details, zoom webinar
+      <description>Spring 2021   4/20/21 - Streamblocks : A Heterogeneous Dataflow Compiler, Bezati Endri (EPFL), recording
+  4/27/21 - Under the Hood of OpenFPGA, Pierre-Emanual Gaillardon (Utah), talk details, recording
+  5/11/21 - Polynomial Chaos Expansion (PCE) Methods with the Xyce Circuit Simulator, Eric Keiter (Sandia), talk details, recording
   5/18/21 - ScaleHLS: Scalable High-Level Synthesis through MLIR, Hanchen Ye (UIUC), zoom webinar
-  5/11/21 - Polynomial Chaos Expansion (PCE) Methods with the Xyce Circuit Simulator, Eric Keiter (Sandia), talk details, recording</description>
+  5/25/21 - A New Era of Open-Source System-on-Chip Design, Christopher Batten (Cornell), talk details, zoom webinar</description>
     </item>
     
     <item>
