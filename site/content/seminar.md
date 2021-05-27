@@ -14,7 +14,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _5/18/21_ - **ScaleHLS: Scalable High-Level Synthesis through MLIR**, [Hanchen Ye](https://hanchenye.com) (UIUC), [recording](https://youtu.be/DgeEtbS978A)
 
-* _5/25/21_ - **A New Era of Open-Source System-on-Chip Design**, [Christopher Batten](https://www.csl.cornell.edu/~cbatten/) (Cornell), [talk details](https://www.soe.ucsc.edu/events/new-era-open-source-system-chip-design), [zoom webinar](https://ucsc.zoom.us/j/97513249812)
+* _5/25/21_ - **A New Era of Open-Source System-on-Chip Design**, [Christopher Batten](https://www.csl.cornell.edu/~cbatten/) (Cornell), [talk details](https://www.soe.ucsc.edu/events/new-era-open-source-system-chip-design), [recording](https://youtu.be/b1tFJIBzO4I)
 
 * _6/1/21_ - **Reticle: A Virtual Machinefor Programming Modern FPGAs**, [Luis Vega](https://homes.cs.washington.edu/~vegaluis/) (Washington), [zoom webinar](https://ucsc.zoom.us/j/97513249812)
 
