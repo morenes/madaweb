@@ -44,9 +44,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/pubs/</guid>
-      <description>2020   Heiner Litz, Milad Hashemi, Machine Learning for Systems. IEEE Micro 40(5), 6-7, 2020.
-  Akash Sridhar, Nursultan Kabylkas, Jose Renau, Load Driven Branch Predictor (LDBP). CoRR abs/2009.09064, 2020.
-  Nayana Prasad Nagendra, Grant Ayers, David I. August, Hyoun Kyu Cho, Svilen Kanev, Christos Kozyrakis, Trivikram Krishnamurthy, Heiner Litz, Tipp Moseley, Parthasarathy Ranganathan, AsmDB: Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers. IEEE Micro 40(3), 56-63, 2020.</description>
+      <description>2021   Chandranil Chakrabortti, Heiner Litz, Reducing write amplification in flash by death-time prediction of logical block addresses. SYSTOR, 11:1-11:12, 2021.
+  Saeed Kargar, Heiner Litz, Faisal Nawab, Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage. ICDE, 768-779, 2021.
+  Tanvir Ahmed Khan, Dexin Zhang, Akshitha Sriraman, Joseph Devietti, Gilles Pokam, Heiner Litz, Baris Kasikci, Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications.</description>
     </item>
     
     <item>
