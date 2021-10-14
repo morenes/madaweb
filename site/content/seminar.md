@@ -6,9 +6,9 @@ bgImage = "img/e2-crop.jpg"
 
 ## Fall 2021
 
-* _10/5/21_ - **"Graphical Models and Logical Abstractions for Quantum Systems**, [Yipeng Huang](https://yipenghuang.com) (Rutgers), [@yipenghuang0302](https://twitter.com/yipenghuang0302)
+* _10/5/21_ - **"Graphical Models and Logical Abstractions for Quantum Systems**, [Yipeng Huang](https://yipenghuang.com) (Rutgers), [@yipenghuang0302](https://twitter.com/yipenghuang0302), [recording](https://youtu.be/XqIGlH3vkVY)
 
-* _10/12/21_ - **"Electronic Design Automation and Network Security**, [Riadul Islam](https://www.csee.umbc.edu/people/faculty/riadul-islam/) (UMBC)
+* _10/12/21_ - **"Electronic Design Automation and Network Security**, [Riadul Islam](https://www.csee.umbc.edu/people/faculty/riadul-islam/) (UMBC), [recording](https://youtu.be/P13Y4O2JnI0)
 
 * _10/19/21_ - [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/) (UC Davis), [@jlowepower](https://twitter.com/jlowepower)
 
