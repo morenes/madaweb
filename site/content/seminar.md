@@ -10,7 +10,9 @@ bgImage = "img/e2-crop.jpg"
 
 * _10/12/21_ - **"Electronic Design Automation and Network Security**, [Riadul Islam](https://www.csee.umbc.edu/people/faculty/riadul-islam/) (UMBC), [recording](https://youtu.be/P13Y4O2JnI0)
 
-* _10/19/21_ - [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/) (UC Davis), [@jlowepower](https://twitter.com/jlowepower)
+* _10/19/21_ - **"Managing Memory Smartly"**, [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/) (UC Davis), [@jlowepower](https://twitter.com/jlowepower), [talk details](https://engineering.ucsc.edu/events/managing-memory-smartly), [recording](https://youtu.be/3_NuFBarhs8)
+
+* _10/26/21_ - **"Chisel 3.5"**, [Jack Koenig](https://www.linkedin.com/in/jack-koenig-b4182729/) (SiFive), [@jackakattack](https://twitter.com/jackakattack)
 
 * _11/9/21_ - **TBD (In-Memory computing)**, [Siddarth Joshi](https://siddharth-joshi.com) (Notre Dame)
 
