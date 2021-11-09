@@ -14,7 +14,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _10/26/21_ - **"Chisel 3.5"**, [Jack Koenig](https://www.linkedin.com/in/jack-koenig-b4182729/) (SiFive), [@jackakattack](https://twitter.com/jackakattack)
 
-* _11/9/21_ - **TBD (In-Memory computing)**, [Siddarth Joshi](https://siddharth-joshi.com) (Notre Dame)
+* _11/9/21_ - **"Energy Efficient Computing for Intelligence at the Edge of the Network in the CMOS Era and Beyond"**, [Siddarth Joshi](https://siddharth-joshi.com) (Notre Dame), [@s14joshi](https://twitter.com/s14joshi)
 
 
 ## Spring 2021
