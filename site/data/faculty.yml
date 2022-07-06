@@ -23,6 +23,11 @@ portfolio:
     home: https://users.soe.ucsc.edu/~renau/
     description: >
       computer architecture, design effort metrics and models, thermal, simulation, FPGA/ASIC design, mobile computing
+  - category: Faculty
+    name: Dustin Richmond
+    home: https://www.dustinrichmond.com
+    description: >
+      computer architecture, open-source hardware design, graph algorithms, design automation, design effort metrics and models, FPGA/ASIC design, hardware security, applications of hardware system design
   - category: Group
     name: Tyler Sorensen
     home: https://users.soe.ucsc.edu/~tsorensen/
