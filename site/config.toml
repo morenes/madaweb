@@ -65,5 +65,5 @@ theme = "airspace-hugo"
     enable = true
     image = "img/baskin-logo-old.svg"
     title = "About Us"
-    italic = "We are researchers at UC Santa Cruz in the Computer Science & Engineering Department investigating how to design/build/architect/secure/optimize/integrate/program the next generation of hardware."
+    italic = "We are researchers at UC Santa Cruz in the Computer Science & Engineering (CSE) and the Electrical & Computer Engineering (ECE) departments investigating how to design/build/architect/secure/optimize/integrate/program the next generation of hardware."
     paragraph = "Our approach brings together many perspectives: circuits & VLSI (physical design, design automation, clocking, memory, thermals), architecture (hardware specialization, simulation, advanced out-of-order processors, prefetchers), and systems (storage systems, operating systems, machine learning for design, concurrency, security, programming models)."
