@@ -19,6 +19,11 @@ portfolio:
     description: >
       design automation, chip design (VLSI), clocking circuits, memory circuits, circuit optimization, open-source software
   - category: Faculty
+    name: Colleen Josephson
+    home: https://people.ucsc.edu/~cojoseph/
+    description: >
+      sensors and sensing systems, RFID and RF backscatter, energy harvesting, sustainable computing, embedded systems
+  - category: Faculty
     name: Heiner Litz
     home: https://people.ucsc.edu/~hlitz/
     description: >
