@@ -4,17 +4,28 @@ id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
 
+## Fall 2022
+
+* _10/27/22_ - **Enabling Hyperscale Web Services**, [Akshita Sriraman](https://akshithasriraman.eecs.umich.edu) (CMU), [@AkshithaSriram1](https://twitter.com/AkshithaSriram1)
+
+* _11/10/22_ - [Jae W Lee](https://cse.snu.ac.kr/en/professor/jae-w-lee) (Seoul National)
+
+* _11/17/22_ - **An Introduction to Software Verification in Whiley**, [David Parce](https://whileydave.com) (ConsenSys), [@WhileyDave](https://twitter.com/WhileyDave)
+
+* _12/1/22_ - **Hardware Software Co-Design for Graph Algorithms**, [Nishil Talati](https://sites.google.com/site/nishiltalatipersonal/) (Michigan), [@talatinishil](https://twitter.com/talatinishil)
+
+
 ## Fall 2021
 
-* _10/5/21_ - **"Graphical Models and Logical Abstractions for Quantum Systems**, [Yipeng Huang](https://yipenghuang.com) (Rutgers), [@yipenghuang0302](https://twitter.com/yipenghuang0302), [recording](https://youtu.be/XqIGlH3vkVY)
+* _10/5/21_ - **Graphical Models and Logical Abstractions for Quantum Systems**, [Yipeng Huang](https://yipenghuang.com) (Rutgers), [@yipenghuang0302](https://twitter.com/yipenghuang0302), [recording](https://youtu.be/XqIGlH3vkVY)
 
-* _10/12/21_ - **"Electronic Design Automation and Network Security**, [Riadul Islam](https://www.csee.umbc.edu/people/faculty/riadul-islam/) (UMBC), [recording](https://youtu.be/P13Y4O2JnI0)
+* _10/12/21_ - **Electronic Design Automation and Network Security**, [Riadul Islam](https://www.csee.umbc.edu/people/faculty/riadul-islam/) (UMBC), [recording](https://youtu.be/P13Y4O2JnI0)
 
-* _10/19/21_ - **"Managing Memory Smartly"**, [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/) (UC Davis), [@jlowepower](https://twitter.com/jlowepower), [talk details](https://engineering.ucsc.edu/events/managing-memory-smartly), [recording](https://youtu.be/3_NuFBarhs8)
+* _10/19/21_ - **Managing Memory Smartly**, [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/) (UC Davis), [@jlowepower](https://twitter.com/jlowepower), [talk details](https://engineering.ucsc.edu/events/managing-memory-smartly), [recording](https://youtu.be/3_NuFBarhs8)
 
-* _10/26/21_ - **"Chisel 3.5"**, [Jack Koenig](https://www.linkedin.com/in/jack-koenig-b4182729/) (SiFive), [@jackakattack](https://twitter.com/jackakattack)
+* _10/26/21_ - **Chisel 3.5**, [Jack Koenig](https://www.linkedin.com/in/jack-koenig-b4182729/) (SiFive), [@jackakattack](https://twitter.com/jackakattack)
 
-* _11/9/21_ - **"Energy Efficient Computing for Intelligence at the Edge of the Network in the CMOS Era and Beyond"**, [Siddarth Joshi](https://siddharth-joshi.com) (Notre Dame), [@s14joshi](https://twitter.com/s14joshi), [recording](https://youtu.be/zhrAYYvWgv0)
+* _11/9/21_ - **Energy Efficient Computing for Intelligence at the Edge of the Network in the CMOS Era and Beyond**, [Siddarth Joshi](https://siddharth-joshi.com) (Notre Dame), [@s14joshi](https://twitter.com/s14joshi), [recording](https://youtu.be/zhrAYYvWgv0)
 
 
 ## Spring 2021
