@@ -8,7 +8,7 @@ bgImage = "img/e2-crop.jpg"
 
 * _10/27/22_ - **Enabling Hyperscale Web Services**, [Akshita Sriraman](https://akshithasriraman.eecs.umich.edu) (CMU), [@AkshithaSriram1](https://twitter.com/AkshithaSriram1)
 
-* _11/10/22_ - [Jae W Lee](https://cse.snu.ac.kr/en/professor/jae-w-lee) (Seoul National)
+* _11/10/22_ - **Specialized Architectures for Machine Learning and Data Analytics** - [Jae W Lee](https://cse.snu.ac.kr/en/professor/jae-w-lee) (Seoul National)
 
 * _11/17/22_ - **An Introduction to Software Verification in Whiley**, [David Parce](https://whileydave.com) (ConsenSys), [@WhileyDave](https://twitter.com/WhileyDave)
 
