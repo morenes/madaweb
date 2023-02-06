@@ -1,7 +1,7 @@
 biblio/biblio.html:
 	python ./scripts/dblp_crawler.py > biblio/biblio.html
 
-biblio/biblio.md:
+biblio/biblio.md: ./scripts/dblp_crawler.py
 	python3 ./scripts/dblp_crawler.py > biblio/biblio.md
 
 site/content/pubs.md: biblio/biblio.md

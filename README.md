@@ -10,3 +10,4 @@ To build the site:
 4. cd site
 5. hugo server
 6. open localhost URL it gives in a browser
+
