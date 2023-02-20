@@ -4,6 +4,19 @@ id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
 
+## Winter 2023
+
+* _1/26/23_ - **Towards Scalable & Specialized Application Error Analysis**, [Abdulrahman Mahmoud](https://ma3mool.github.io) (Harvard), [@ARHmahmoud](https://twitter.com/ARHmahmoud)
+
+* _2/2/23_ - **KRISP: Enabling Kernel-wise RIght-sizing for Spatial Partitioned GPU Inference Servers**, [Marcus Chow](https://www.cs.ucr.edu/~mchow009/) (UCR)
+
+* _2/9/23_ - **Inter-Chiplet Synchronization of Multi-Die VLSI Systems**, [Baris Taskin](https://drexel.edu/engineering/about/faculty-staff/T/taskin-baris/) (Drexel)
+
+* _2/16/23_ - **Autotuning HPC Applications with Gaussian Process Regression and Crowd-based Transfer Learning**, [Younghyun Cho](https://younghyunc.github.io) (UCB)
+
+* _3/2/23_ - **In Computer Architecture, We Don’t Change the Questions, We Change the Answers**, [Mark D. Hill](https://pages.cs.wisc.edu/~markhill/) (Microsoft)
+
+
 ## Fall 2022
 
 * _10/27/22_ - **Enabling Hyperscale Web Services**, [Akshita Sriraman](https://akshithasriraman.eecs.umich.edu) (CMU), [@AkshithaSriram1](https://twitter.com/AkshithaSriram1)
