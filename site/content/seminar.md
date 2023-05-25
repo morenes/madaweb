@@ -4,6 +4,19 @@ id = "single"
 bgImage = "img/e2-crop.jpg"
 +++
 
+## Spring 2023
+
+* _4/12/23_ - **Scaling up Server Performance via In-Memory Processing**, [José Martínez](https://martinez.csl.cornell.edu) (Cornell)
+
+* _4/19/23_ - **Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories**, Max Ruttenberg (Washington)
+
+* _5/3/23_ - **CATAMARAN: A Cloud-FPGA-based Testbed for Architecture Research on RISC-V CPUs, Accelerators, Memory Systems**, [Rishiyur Nikhil](https://www.linkedin.com/in/rsnikhil/) (Bluespec), [@rsnikhil](https://twitter.com/rsnikhil)
+
+* _5/17/23_ - **Wally: A Configurable RISC-V CPU for Education**, [Ross Thompson](https://www.linkedin.com/in/ross-thompson-ab6bb981/) (Oklahoma State)
+
+* _5/24/23_ - **Realizing Sustainable Computing Through Long-Lived Compute**, [Pat Pannuto](http://patpannuto.com/) (UC San Diego), [@patpannuto](https://twitter.com/patpannuto)
+
+
 ## Winter 2023
 
 * _1/26/23_ - **Towards Scalable & Specialized Application Error Analysis**, [Abdulrahman Mahmoud](https://ma3mool.github.io) (Harvard), [@ARHmahmoud](https://twitter.com/ARHmahmoud)
