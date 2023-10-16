@@ -6,7 +6,7 @@ bgImage = "img/e2-crop.jpg"
 
 ## Fall 2023
 
-* _4/12/23_ - **Data-centric Architecture Support for Security**, [Yuanchao Xu](https://yuanchaoxu6.github.io) (UCSC)
+* _10/4/23_ - **Data-centric Architecture Support for Security**, [Yuanchao Xu](https://yuanchaoxu6.github.io) (UCSC)
 
 
 ## Spring 2023

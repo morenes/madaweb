@@ -30,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//hsc.ucsc.edu/seminar/</guid>
-      <description>Fall 2023 4/12/23 - Data-centric Architecture Support for Security, Yuanchao Xu (UCSC) Spring 2023 4/12/23 - Scaling up Server Performance via In-Memory Processing, José Martínez (Cornell)
+      <description>Fall 2023 10/4/23 - Data-centric Architecture Support for Security, Yuanchao Xu (UCSC) Spring 2023 4/12/23 - Scaling up Server Performance via In-Memory Processing, José Martínez (Cornell)
 4/19/23 - Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories, Max Ruttenberg (Washington)
 5/3/23 - CATAMARAN: A Cloud-FPGA-based Testbed for Architecture Research on RISC-V CPUs, Accelerators, Memory Systems, Rishiyur Nikhil (Bluespec), @rsnikhil
 5/17/23 - Wally: A Configurable RISC-V CPU for Education, Ross Thompson (Oklahoma State)</description>
