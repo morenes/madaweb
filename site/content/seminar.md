@@ -8,6 +8,8 @@ bgImage = "img/e2-crop.jpg"
 
 * _10/4/23_ - **Data-centric Architecture Support for Security**, [Yuanchao Xu](https://yuanchaoxu6.github.io) (UCSC)
 
+* _10/18/23_ - **Challenges and Opportunities to Accelerate ML Inference with Sparsity**, [Zhibin Xiao](https://www.linkedin.com/in/zhibin-xiao-0766651a/) (Moffett.AI)
+
 
 ## Spring 2023
 
