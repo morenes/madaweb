@@ -10,6 +10,8 @@ bgImage = "img/e2-crop.jpg"
 
 * _10/18/23_ - **Challenges and Opportunities to Accelerate ML Inference with Sparsity**, [Zhibin Xiao](https://www.linkedin.com/in/zhibin-xiao-0766651a/) (Moffett.AI)
 
+* _11/1/23_ - **Reflections on Trusting TrustHUB**, [Christian Krieg](https://scholar.google.at/citations?user=Ig-F2rAAAAAJ&hl=en) (TU Wien)
+
 
 ## Spring 2023
 

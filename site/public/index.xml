@@ -5,66 +5,55 @@
     <link>//hsc.ucsc.edu/</link>
     <description>Recent content on UCSC Hardware Systems Collective</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//hsc.ucsc.edu/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="//hsc.ucsc.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alumni</title>
       <link>//hsc.ucsc.edu/alumni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//hsc.ucsc.edu/alumni/</guid>
       <description>Doctorate Cyrus Bazeghi (&amp;lsquo;07) Microsoft Javi Martinez (&amp;lsquo;07) Qualcomm Sangeetha Nair (&amp;lsquo;11) Intel Sean Halle (&amp;lsquo;12) PostDoc/INRIA Seokjoong Kim (&amp;lsquo;12) Xilinx Xuchu Hu (&amp;lsquo;12) Cadence Design Systems David Munday (&amp;lsquo;13) Google Ehsan Ardestani (&amp;lsquo;13) Facebook Sheldon Logan (&amp;lsquo;13) Google Madan Das (&amp;lsquo;15) Mentor Graphics Alamelu Sankaranarayanan (&amp;lsquo;16) Gabriel Southern (&amp;lsquo;16) Intel Elnaz Ebrahimi (&amp;lsquo;17) Huawei Rajsaktish Sankaranarayanan (&amp;lsquo;17) Intel Riadul Islam (&amp;lsquo;17) Assistant Professor, UMBC Daphne Gorman (&amp;lsquo;18) Apple Haven Skinner (&amp;lsquo;18) BigStream Rafael Trapani Possignolo (&amp;lsquo;18) Intel Masters Shantanu Kale.</description>
     </item>
-    
     <item>
       <title>Faculty</title>
       <link>//hsc.ucsc.edu/faculty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//hsc.ucsc.edu/faculty/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HSC Seminar</title>
       <link>//hsc.ucsc.edu/seminar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//hsc.ucsc.edu/seminar/</guid>
       <description>Fall 2023 10/4/23 - Data-centric Architecture Support for Security, Yuanchao Xu (UCSC)
 10/18/23 - Challenges and Opportunities to Accelerate ML Inference with Sparsity, Zhibin Xiao (Moffett.AI)
+11/1/23 - Reflections on Trusting TrustHUB, Christian Krieg (TU Wien)
 Spring 2023 4/12/23 - Scaling up Server Performance via In-Memory Processing, José Martínez (Cornell)
-4/19/23 - Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories, Max Ruttenberg (Washington)
-5/3/23 - CATAMARAN: A Cloud-FPGA-based Testbed for Architecture Research on RISC-V CPUs, Accelerators, Memory Systems, Rishiyur Nikhil (Bluespec), @rsnikhil</description>
+4/19/23 - Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories, Max Ruttenberg (Washington)</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>//hsc.ucsc.edu/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//hsc.ucsc.edu/pubs/</guid>
       <description>2023 Ya Li, Jing-Hao Luo, Qing-Yun Dai, Jason K. Eshraghian, Bingo Wing-Kuen Ling, Ciyan Zheng, Xiao-Li Wang, A deep learning approach to cardiovascular disease classification using empirical mode decomposition for ECG feature extraction. Biomed. Signal Process. Control. 79(Part), 104188, 2023.
 Farhad Modaresi, Matthew Guthaus, Jason K. Eshraghian, OpenSpike: An OpenRAM SNN Accelerator. CoRR abs/2302.01015, 2023.
 Jason Yik, Soikat Hasan Ahmed, Zergham Ahmed, Brian Anderson, Andreas G. Andreou, Chiara Bartolozzi, Arindam Basu, Douwe den Blanken, Petrut Bogdan, Sander M.</description>
     </item>
-    
     <item>
       <title>Sponsors</title>
       <link>//hsc.ucsc.edu/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//hsc.ucsc.edu/sponsors/</guid>
       <description> </description>
     </item>
-    
     <item>
       <title>Students</title>
       <link>//hsc.ucsc.edu/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//hsc.ucsc.edu/students/</guid>
       <description>Doctorate Peter Braun Chandranil Chakraborttii Priyanka Dutta Jesse Cirimelli-Low Hany Fahmy Nilufar Ferdous Saba Jamilan Ramesh Jayaraman Nursultan Kabylkas Yuanpeng Liao Amogh Lonkar Hunter Nichols Akash Sridhar Jason Vranek Sheng Hong Wang Pete Wilcox Bin Wu Minghao Xie Masters Micaela Kapp Kenneth Mayer Brian Metz Thomas Nijssen Yusu Wang Undergraduate Connor Masterson Krishna Pandian Kyle Zhang </description>
     </item>
-    
   </channel>
 </rss>
