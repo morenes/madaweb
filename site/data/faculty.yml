@@ -15,7 +15,7 @@ portfolio:
       neuromorphic computing, spiking neural networks, brain-inspired learning algorithms and hardware,  memory circuits, FPGA/ASIC design
   - category: Faculty
     name: Matthew Guthaus
-    home: https://engineering.ucsc.edu/people/mrg
+    home: https://campusdirectory.ucsc.edu/cd_detail?uid=mrg
     description: >
       design automation, chip design (VLSI), clocking circuits, memory circuits, circuit optimization, open-source software
   - category: Faculty
@@ -45,6 +45,6 @@ portfolio:
       concurrency (semantics, testing, verification), heterogeneous systems (GPUs, accelerators), compilers (portability, optimizations)
   - category: Group
     name: Sagnik Nath
-    home: https://www.soe.ucsc.edu/people/sanath
+    home: https://campusdirectory.ucsc.edu/cd_detail?uid=sanath
     description: >
      VLSI design, EDA tool development, single flux quantum logic
