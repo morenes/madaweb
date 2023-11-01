@@ -29,6 +29,7 @@
       <description>Fall 2023 10/4/23 - Data-centric Architecture Support for Security, Yuanchao Xu (UCSC)
 10/18/23 - Challenges and Opportunities to Accelerate ML Inference with Sparsity, Zhibin Xiao (Moffett.AI)
 11/1/23 - Reflections on Trusting TrustHUB, Christian Krieg (TU Wien)
+11/15/23 - Opportunities and Challenges for In- and Near-Memory Computing for Machine Intelligence, Siddharth Joshi (Notre Dame), @s14joshi
 Spring 2023 4/12/23 - Scaling up Server Performance via In-Memory Processing, José Martínez (Cornell)
 4/19/23 - Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories, Max Ruttenberg (Washington)</description>
     </item>

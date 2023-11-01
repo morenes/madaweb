@@ -12,6 +12,10 @@ bgImage = "img/e2-crop.jpg"
 
 * _11/1/23_ - **Reflections on Trusting TrustHUB**, [Christian Krieg](https://scholar.google.at/citations?user=Ig-F2rAAAAAJ&hl=en) (TU Wien)
 
+* _11/15/23_ - **Opportunities and Challenges for In- and Near-Memory Computing for Machine Intelligence**, [Siddharth Joshi](https://siddharth-joshi.com) (Notre Dame), [@s14joshi](https://twitter.com/s14joshi)
+
+<!-- * _11/29/23_ - **Infrastructure – Enabling the Backbone for AI and High-Performance Computing Environments and Hardware**, [Robert Hero]() () -->
+
 
 ## Spring 2023
 
