@@ -44,6 +44,11 @@ portfolio:
     description: >
       concurrency (semantics, testing, verification), heterogeneous systems (GPUs, accelerators), compilers (portability, optimizations)
   - category: Group
+    name: Yuanchao Xu
+    home: https://yuanchaoxu6.github.io
+    description: >
+      computer architecture, security, ML systems and architecture
+  - category: Group
     name: Sagnik Nath
     home: https://campusdirectory.ucsc.edu/cd_detail?uid=sanath
     description: >
