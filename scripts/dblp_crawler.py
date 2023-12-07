@@ -8,7 +8,8 @@ from xml.dom import minidom
 from collections import defaultdict
 
 # Name of the authors
-professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer', 'Dustin Richmond', 'Tyler Sorensen', 'Jason Eshraghian', 'Colleen Josephson'}
+professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer', 'Dustin Richmond', 'Tyler Sorensen', 'Jason Eshraghian', 'Colleen Josephson', 'Yuanchao Xu 0001'}
+
 
 # Get DBLP's key
 def get_urlpt(name):
