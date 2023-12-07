@@ -9,7 +9,9 @@ site/content/pubs.md: biblio/biblio.md
 
 .PHONY: deploy
 deploy:
-	cd site && hugo && rsync -avz --delete public/ unix.ic.ucsc.edu:/afs/cats.ucsc.edu/www/hsc/prod/public_html/
+	# cd site && hugo && rsync -avz --delete public/ unix.ic.ucsc.edu:/afs/cats.ucsc.edu/www/hsc/prod/public_html/
+	cd site && hugo && rsync -avz --delete public/ www2-shell.prd.web.aws.ucsc.edu:/webroot/hsc/public_html/
+	
 
 .PHONY: scrape-pubs
 scrape-pubs: biblio/biblio.md
