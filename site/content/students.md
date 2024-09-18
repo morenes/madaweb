@@ -15,6 +15,7 @@ Current Students
 * [Tyler Sheaves](https://tylersheaves.com/)
 * [Amogh Lonkar](https://users.soe.ucsc.edu/~alonkar/)
 * [Ruijie “Ridger” Zhu](https://ruijie-zhu.github.io/)
+* [Arjun Vedantham](https://arjun.vedantham.xyz)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -32,7 +33,6 @@ Current Students
 * Assel Kembay
 * Binh Nguyen
 * Ella Lehavi
-* Arjun Vedantham
 
 #### Masters
 * Mingsheng Xu
