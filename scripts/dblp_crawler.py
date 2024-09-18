@@ -3,6 +3,7 @@
 
 import math, sys
 import requests
+import time
 from xml.dom import minidom
 
 from collections import defaultdict
@@ -49,11 +50,20 @@ def list_of_papers(pure_name):
                 rc.append(node.data)
         papers.append(''.join(rc))
 
-    return papers
+    return papers    
 
 def get_paper_info(paper):
     url = 'http://dblp.uni-trier.de/rec/xml/'+paper+'.xml'
-    response = requests.get(url)
+
+    while True:
+        response = requests.get(url)
+        if response.status_code == 429:
+            # rate limited
+            # https://dblp.org/faq/Am+I+allowed+to+crawl+the+dblp+website.html
+            # print(response.content)
+            time.sleep(30)
+        else:
+            break
 
     xmldoc = minidom.parseString(response.content)
 
