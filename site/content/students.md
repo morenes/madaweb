@@ -32,10 +32,10 @@ Current Students
 * Assel Kembay
 * Binh Nguyen
 * Ella Lehavi
+* Arjun Vedantham
 
 #### Masters
 * Mingsheng Xu
-* Nishant Khanorkar
 * Vincent Titterton
 * Micaela Kapp
 * Kenneth Mayer
@@ -47,9 +47,6 @@ Current Students
 * Aditya Bedekar
 
 #### Undergraduate
-* John Drab
-* Thomas Liao
-* Jinsung Park
 * Andrew Barth-Yi
 * Arshan Rashidi
 * Jackson Friday

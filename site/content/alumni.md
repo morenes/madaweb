@@ -87,22 +87,23 @@ Masters
 * Qian Chen ('19) Facebook
 * Hany Fahmy ('19)
 * Jennifer Sowash ('19) Achronix
-* Haoyuan Wang ('20) KIOXIA
+* Haoyuan Wang ('20) KIOXIA, UCSC PhD Program
 * Clark Hilbert ('20) Achronix
-* Jason Vranek ('20) UCSC PhD program
 * Joshua Pena ('20)
 * Huijie Pan ('20)
 * Hunter Coffman ('20)
 * Sachet Mittal ('20)
+* [Jason Vranek](https://www.linkedin.com/in/jason-vranek/) ('20) Portal AI
+* [Thomas Nijssen](https://www.linkedin.com/in/thomas-nijssen/) ('21) NVIDIA
 * [Sam Crow](https://www.linkedin.com/in/samuel-crow-615a65167/)
 * [Calvin Keyes](https://www.linkedin.com/in/calvin-keyes/)
-* [Peter Braun](https://www.linkedin.com/in/petervbraun/)
+* [Peter Braun](https://www.linkedin.com/in/petervbraun/) ARM
 * [Sachet Mittal](https://www.linkedin.com/in/sachet-mittal/)
-* [Priyanka Dutta](https://www.linkedin.com/in/priyankadutta09/)
-* [Tanuj Gupta](https://www.linkedin.com/in/tanuj-gupta-57b869168/)
-* [Thomas Nijssen](https://www.linkedin.com/in/thomas-nijssen/)
-* [Jason Vranek](https://www.linkedin.com/in/jason-vranek/)
+* [Priyanka Dutta](https://www.linkedin.com/in/priyankadutta09/) ('23) Apple
+* [Tanuj Gupta](https://www.linkedin.com/in/tanuj-gupta-57b869168/) ('23) MetaJungle
+* [Nilesh Negi](https://www.linkedin.com/in/nileshnegi/) ('23) AMD
 * [Hunter Nichols](https://hznichol.wordpress.com/)
+* [Nishant Khanorkar](https://www.linkedin.com/in/khanorkar-nishant/) ('24) Meta
 * Maxwell Bradley
 * Kartik Rajesh Kain
 
@@ -145,3 +146,5 @@ Undergraduate Researchers
 * [Jingkai Guo](https://www.linkedin.com/in/jingkai-guo-bb43767a/)
 * [Krishna Pandian](https://www.linkedin.com/in/krishna-kumar-pandian/)
 * [Kyle Zhang](https://www.linkedin.com/in/kyle-zhang-3a6551194/)
+* [John Drab](https://www.linkedin.com/in/john-drab/)
+* [Jinsung Park](https://www.linkedin.com/in/floofyjin/)
