@@ -9,7 +9,7 @@ from xml.dom import minidom
 from collections import defaultdict
 
 # Name of the authors
-professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer', 'Dustin Richmond', 'Tyler Sorensen', 'Jason Eshraghian', 'Colleen Josephson', 'Yuanchao Xu 0001'}
+professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer', 'Dustin Richmond', 'Tyler Sorensen', 'Jason Eshraghian', 'Colleen Josephson', 'Yuanchao Xu 0001', 'Marcelo Orenes-Vera', 'Soumya Bose', 'Abel Sousa'}
 
 
 # Get DBLP's key
