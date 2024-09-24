@@ -60,6 +60,8 @@ bgImage = "img/trees.jpg"
 
 * Samuel Schmidgall, Carl Harris, Ime Essien, Daniel Olshvang, Tawsifur Rahman, Ji Woong Kim, Rojin Ziaei, Jason Eshraghian, Peter Abadir, Rama Chellappa, **[Addressing cognitive bias in medical language models.](https://doi.org/10.48550/arXiv.2402.08113)** *CoRR* abs/2402.08113, 2024.
 
+* Marcelo Orenes-Vera, Esin Tureci, David Wentzlaff, Margaret Martonosi, **[Muchisim: A Simulation Framework for Design Exploration of Multi-Chip Manycore Systems.](https://ieeexplore.ieee.org/document/10590024)** *ISPASS*, 2024.
+
 
 ## 2023
 * Ziyu Wang, Yuting Wu, Yongmo Park, Sangmin Yoo, Xinxin Wang, Jason K. Eshraghian, Wei D. Lu, **[PowerGAN: A Machine Learning Approach for Power Side-Channel Attack on Compute-in-Memory Accelerators.](https://doi.org/10.1002/aisy.202300313)** *Adv. Intell. Syst.* 5(12), 2023.
@@ -154,6 +156,23 @@ bgImage = "img/trees.jpg"
 
 * Sheng-Hong Wang, Hunter James Coffman, Kenneth Mayer, Sakshi Garg 0002, Jose Renau, **[A Multi-threaded Fast Hardware Compiler for HDLs.](https://doi.org/10.1145/3578360.3580254)** *CC*, 25-36, 2023.
 
+* Marcelo Orenes-Vera, Margaret Martonosi, David Wentzlaff, **[Using LLMs to Facilitate Formal Verification of RTL.](https://arxiv.org/abs/2309.09437)** CoRR, 2023
+
+* Marcelo Orenes-Vera, Hyunsung Yun, Nils Wistoff, Luca Benini, Gernot Heiser, David Wentzlaff, Margaret Martonosi, **[AutoCC: Automatic Discovery of Covert Channels in Time-Shared Hardware.](https://morenes.github.io/files/micro23_marcelo.pdf)** *MICRO*, 2023.
+
+* Marcelo Orenes-Vera, Esin Tureci, Margaret Martonosi, David Wentzlaff, **[Tascade: Hardware Support for Atomic-free, Asynchronous and Efficient Reduction Trees.](https://arxiv.org/abs/2311.15810)** CoRR, 2023.
+
+* Marcelo Orenes-Vera, Esin Tureci, Margaret Martonosi, David Wentzlaff, **[DCRA: A Distributed Chiplet-based Reconfigurable Architecture for Irregular Applications.](https://arxiv.org/abs/2311.15443)** CoRR, 2023.
+
+* Marcelo Orenes-Vera, Ilya Sharapov, Robert Schreiber, Mathias Jacquelin, Philippe Vandermersch, Sharan Chetlur, **[Wafer-Scale Fast Fourier Transforms.](https://dl.acm.org/doi/abs/10.1145/3577193.3593708)** *ICS*, 2023.
+
+* Marcelo Orenes-Vera, Esin Tureci, David Wentzlaff, Margaret Martonosi, **[Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications.](https://dl.acm.org/doi/abs/10.1145/3470496.3527400)** *HPCA*, 2023.
+
+* Tianrui Wei, Nazerke Turteyeva, Marcelo Orenes-Vera, Omkar Lonkar, Jonathan Balkind, **[Cohort: Software-Oriented Acceleration for Heterogeneous SoCs.](https://dl.acm.org/doi/10.1145/3582016.3582059)** *ASPLOS*, 2023.
+
+* Fei Gao, Ting-Jung Chang, Ang Li, Marcelo Orenes-Vera, Davide Giri, et al., **[DECADES: A 67mm², 1.46TOPS, 55 Giga Cache-Coherent 64-bit RISC-V Instructions per second, Heterogeneous Manycore SoC with 109 Tiles including Accelerators, Intelligent Storage, and eFPGA in 12nm FinFET.](https://ieeexplore.ieee.org/document/10121257)** *CICC*, 2023.
+
+* Ting-Jung Chang, Ang Li, Marcelo Orenes-Vera, et al., **[CIFER: A 12nm, 16mm², 22-Core SoC with a 1541 LUT6/mm², 1.92 MOPS/LUT, Fully Synthesizable, Cache-Coherent, Embedded FPGA.](https://ieeexplore.ieee.org/document/10121294)** *CICC*,  2023.
 
 ## 2022
 * Ziyao Zhang, Maria Sabrina Ma, Jason Kamran Eshraghian, Daniele Vigolo, Ken-Tye Yong, Omid Kavehei, **[Work in Progress: Neuromorphic Cytometry, High-throughput Event-based flow Flow-Imaging.](https://doi.org/10.1109/EBCCSP56922.2022.9845595)** *EBCCSP*, 1-5, 2022.
@@ -227,6 +246,8 @@ bgImage = "img/trees.jpg"
 * Peng Zhou, Donguk Choi, Jason Kamran Eshraghian, Sung-Mo Kang 0001, **[A Fully Memristive Spiking Neural Network with Unsupervised Learning.](https://doi.org/10.48550/arXiv.2203.01416)** *CoRR* abs/2203.01416, 2022.
 
 * Peng Zhou, Dong-Uk Choi, Wei D. Lu, Sung-Mo Steve Kang 0001, Jason Kamran Eshraghian, **[Gradient-Based Neuromorphic Learning on Dynamical RRAM Arrays.](https://doi.org/10.1109/JETCAS.2022.3224071)** *IEEE J. Emerg. Sel. Topics Circuits Syst.* 12(4), 888-897, 2022.
+
+* Marcelo Orenes-Vera, Aninda Manocha, Jonathan Balkind, Fei Gao, Juan L. Aragón, David Wentzlaff, Margaret Martonosi, **[Tiny but Mighty: Designing and Realizing Scalable Latency Tolerance for Manycore SoCs.](https://dl.acm.org/doi/abs/10.1145/3470496.3527400)** *ISCA*, 2022.
 
 
 ## 2021
@@ -310,6 +331,7 @@ bgImage = "img/trees.jpg"
 
 * Dennis E. Robey, Wesley Thio, Herbert H. C. Iu, Jason Kamran Eshraghian, **[Naturalizing Neuromorphic Vision Event Streams Using Generative Adversarial Networks.](https://doi.org/10.1109/ISCAS51556.2021.9401313)** *ISCAS*, 1-5, 2021.
 
+* Marcelo Orenes-Vera, Aninda Manocha, David Wentzlaff, Margaret Martonosi, **[AutoSVA: Democratizing Formal Verification of RTL Module Interactions.](https://morenes.github.io/files/movera-dac2021.pdf)** *DAC*, 2021.
 
 ## 2020
 * Opeoluwa Matthews, Aninda Manocha, Davide Giri, Marcelo Orenes-Vera, Esin Tureci, Tyler Sorensen 0001, Tae Jun Ham, Juan L. Aragón, Luca P. Carloni, Margaret Martonosi, **[The MosaicSim Simulator (Full Technical Report).](https://arxiv.org/abs/2004.07415)** *CoRR* abs/2004.07415, 2020.
@@ -955,5 +977,3 @@ bgImage = "img/trees.jpg"
 * Roberto Sarmiento, Kamran Eshraghian, **[Implementation of a CORDIC Processor for CFFT Computation in Gallium Arsenide Technology.](https://doi.org/10.1109/EDTC.1994.326871)** *EDAC-ETC-EUROASIC*, 238-244, 1994.
 
 * Andre Yakovleff, X. Thong Nguyen, Abdesselam Bouzerdoum, Alireza Moini, Robert E. Bogner, Kamran Eshraghian, **[Dual-Purpose Interpretation of Sensory Information.](https://doi.org/10.1109/ROBOT.1994.351356)** *ICRA*, 1635-1640, 1994.
-
-
